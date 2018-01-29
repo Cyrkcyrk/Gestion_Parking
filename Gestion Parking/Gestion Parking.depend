@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1516990366 source:d:\info\gestion parking\main.c
+	"Parking.h"
+
+1516989510 d:\info\gestion parking\parking.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1516987822 source:d:\info\gestion parking\fichier.c
+	"Parking.h"
+
+1516986930 source:d:\info\gestion parking\quicksort.c
+	"Parking.h"
+
+1516989498 source:d:\info\gestion parking\menu.c
+	"Parking.h"
+

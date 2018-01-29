@@ -33,12 +33,12 @@ int main()
         {
         case 1:
             {
-                //Afficher_stat(Parking);
+                Afficher_stat(Parking);
                 break;
             }
         case 2:
             {
-                chercher_voiture(Parking);
+                chercher_voiture(Parking); // Pas au point
             }
         case 3:
             {
